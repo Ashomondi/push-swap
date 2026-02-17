@@ -1,2 +1,11 @@
+# Binaries
 push-swap
 checker
+
+# Go build cache
+*.exe
+*.out
+
+# OS / editor junk
+.DS_Store
+.vscode/
